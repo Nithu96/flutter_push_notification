@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508344849643",
+    "project_id": "fir-pushnotification-d83fe",
+    "storage_bucket": "fir-pushnotification-d83fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508344849643:android:98f7f23c9bd6515ac51aae",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508344849643-du76f94qv77vtt272jnb0u4h59ja9jeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5z434ia_iT32D2dYdLSmXHixkAttbDxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508344849643-du76f94qv77vtt272jnb0u4h59ja9jeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
